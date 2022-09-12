@@ -1,1 +1,2 @@
-enable auto fill username
+enable jwt: Bang Pham
+enable auto fill username: Nguyen Phuc
