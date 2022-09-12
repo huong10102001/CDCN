@@ -1,3 +1,4 @@
 enable jwt: Bang Pham
 enable auto fill username: Nguyen Phuc
 bug 1: not remember me
+bug 2: not disable button submit
